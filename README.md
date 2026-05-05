@@ -26,12 +26,12 @@ IMDb Movie Reviews Dataset (50,000 samples)
 
 1. Install dependencies
 
-```bash
+bash
 pip install -r requirements.txt
 
 2. Run the app
 
-```bash
+bash
 python App/app.py
 
 3. Open in browser
